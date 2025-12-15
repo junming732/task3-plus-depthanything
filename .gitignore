@@ -1,3 +1,6 @@
 venv
 outputs
 data
+task4_training_data
+*.pth
+*.ply
