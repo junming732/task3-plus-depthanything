@@ -72,4 +72,5 @@ The provided Colab notebook includes a **PyVista Interactive Viewer**, allowing 
 ├── task4_train_dual.py       # Training script for ScaleNet
 ├── task4_evaluate_dual.py    # Evaluation script (calculates errors)
 ├── task4_prepare_dual.py     # Data preprocessing (extracts features)
+├── task4_gen_report_images.py # Generate quanlitaive results
 └── README.md                 # This file
